@@ -81,7 +81,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,sublime,kiro,antigravity&perline=3" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,cursor&perline=3" />
             </td>
             <td align="center">
                 <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,gimp,canva&perline=3" />
