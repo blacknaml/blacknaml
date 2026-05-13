@@ -55,20 +55,20 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=react,typescript,tailwindcss,inertia,bootstrap,chartjs&perline=3" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=react,typescript,tailwindcss,inertia,bootstrap,chartjs,elementor,alpinejs,jquery&perline=3" />
             </td>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel,golang,codeigniter,nextjs&perline=3" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=php,golang,nodejs,laravel,nextjs,codeigniter,websocket,wordpress&perline=3" />
             </td>
             <td align="center">
                 <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlite,mongodb,supabase,redis,elasticsearch,digitalocean,linux&perline=3" />
             </td>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,jenkins,githubactions,vercel,docker,cloudflare&perline=3" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,vercel,docker,cloudflare,aws,gcp,apache,jenkins,githubactions&perline=3" />
             </td>
             <td align="center">
                 <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,puppeteer&perline=3" />
-            </td>
+            </td>            
         </tr>
     </table>
     <div align="center">
@@ -87,7 +87,7 @@
                 <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,gimp,canva&perline=3" />
             </td>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=notion,jira&perline=3" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=jira,notion&perline=3" />
             </td>
             <td align="center">
                 <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,swagger,storybook&perline=3" />
