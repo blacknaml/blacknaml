@@ -14,7 +14,7 @@
  
  🌱 I’m Expert in Laravel and CodeIgniter with 10 Year experience
 
- 📚 Frontend (React, Next, Typescript, TailwindCSS, Bootstrap) | Backend (Laravel, CodeIgniter, PHP, Golang)
+ 📚 Frontend (React, Next, Typescript, TailwindCSS, Bootstrap) | Backend (Laravel, CodeIgniter, PHP, Golang, NodeJS)
 
  💬 Ask me about **Laravel... or anything [here](https://github.com/blacknaml/blacknaml/issues)**
 
