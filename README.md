@@ -10,16 +10,15 @@
 
 <div align="center">
  
- 🔭 I've been working as Software Engineer for 10 Years (Full Stack)
+ I've been working as Software Engineer for 10 Years (Full Stack)
  
- 🌱 I’m Expert in Laravel and CodeIgniter with 10 Year experience
+ I’m Expert in Laravel and CodeIgniter with 10 Year experience
 
- 📚 Frontend (React, Next, Typescript, TailwindCSS, Bootstrap) | Backend (Laravel, CodeIgniter, PHP, Golang, NodeJS)
+ Frontend (React, Next, Typescript, TailwindCSS, Bootstrap) | Backend (Laravel, CodeIgniter, PHP, Golang, NodeJS)
 
- 💬 Ask me about **Laravel... or anything [here](https://github.com/blacknaml/blacknaml/issues)**
+ Ask me about **Laravel... or anything [here](https://github.com/blacknaml/blacknaml/issues)**
 
- ⚡ Fun fact **I wish to live in the Jungle**
- 
+ Fun fact **I wish to live in the Jungle**
  </div>
  
 <div align="center"> 
