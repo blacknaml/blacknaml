@@ -36,8 +36,7 @@
   </a>
     <a href="https://www.upwork.com/freelancers/~01f6b7255ff09970e4" target="_blank">
      <img src="https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Work+with+me+on&style=for-the-badge" target="_blank" /> 
-  </a>
-    <div class="contra-hire-me-button" data-analyticsUserId="0ff63db3-1dd9-4ea2-bf70-12b738a06778" data-theme="light" data-username="debi_prahara_dika"></div><script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
+  </a>    
 </div>
 
  <hr/>
