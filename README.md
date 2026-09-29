@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://debipraharadika.web.id/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
     <a href="https://www.upwork.com/freelancers/~01f6b7255ff09970e4" target="_blank">
      <img src="https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Work+with+me+on&style=for-the-badge" target="_blank" /> 
@@ -60,13 +60,13 @@
                 <img src="https://go-skill-icons.vercel.app/api/icons?i=php,golang,nodejs,laravel,nextjs,codeigniter,websocket,wordpress&perline=3" />
             </td>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlite,mongodb,supabase,redis,elasticsearch,digitalocean,linux&perline=3" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlite,supabase,redis&perline=3" />
             </td>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,vercel,docker,cloudflare,aws,gcp,apache,jenkins,githubactions&perline=3" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,vercel,docker,cloudflare,aws,gcp,apache,linux,githubactions&perline=3" />
             </td>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,puppeteer&perline=3" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,vitest,jest,phpunit&perline=3" />
             </td>            
         </tr>
     </table>
@@ -80,13 +80,13 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,cursor&perline=3" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&perline=3" />
             </td>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,gimp,canva&perline=3" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,gimp&perline=3" />
             </td>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=jira,notion&perline=3" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=jira,asana&perline=3" />
             </td>
             <td align="center">
                 <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,swagger,storybook&perline=3" />
