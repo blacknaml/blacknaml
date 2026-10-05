@@ -4,21 +4,23 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm++Debi+Prahara+Dika!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Indonesia</h3>
+<h3 align="center">Fullstack Product Engineer building and evolving production software</h3>
 
 <br/>
 
 <div align="center">
- 
- I've been working as Software Engineer for 10 Years (Full Stack)
- 
- I’m Expert in Laravel and CodeIgniter with 10 Year experience
+I turn product ideas, business workflows, and technical problems into production software.
 
- Frontend (React, Next, Typescript, TailwindCSS, Bootstrap) | Backend (Laravel, CodeIgniter, PHP, Golang, NodeJS)
+My work spans SaaS platforms, business applications, AI-powered workflows, and complex integrations. I've worked across the full product lifecycle, from understanding requirements and designing systems to shipping, maintaining, and evolving software in production.
 
- Ask me about **Laravel... or anything [here](https://github.com/blacknaml/blacknaml/issues)**
+I work primarily with PHP, Laravel, CodeIgniter, TypeScript, React, Next.js, Node.js, PostgreSQL, and MySQL, with AI systems and third-party integrations increasingly becoming part of the stack.
 
- Fun fact **I wish to live in the Jungle**
+I use AI coding agents extensively to explore solutions, generate code, test ideas, and iterate faster. I remain responsible for the architecture, data models, security boundaries, validation, and final implementation.
+
+Ask me about **software architecture, SaaS, Laravel, AI integration, or production engineering.**
+
+Fun fact: **I wish to live in the jungle.**
+
  </div>
  
 <div align="center"> 
@@ -54,16 +56,16 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=react,typescript,tailwindcss,inertia,bootstrap,chartjs,elementor,alpinejs,jquery&perline=3" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=react,typescript,tailwindcss,bootstrap,chartjs,alpinejs&perline=3" />
             </td>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=php,golang,nodejs,laravel,nextjs,codeigniter,websocket,wordpress&perline=3" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel,nodejs,golang,nextjs,codeigniter,websocket,wordpress&perline=3" />
             </td>
             <td align="center">
                 <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlite,supabase,redis&perline=3" />
             </td>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,vercel,docker,cloudflare,aws,gcp,apache,linux,githubactions&perline=3" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,vercel,docker,aws,apache,linux,githubactions&perline=3" />
             </td>
             <td align="center">
                 <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,vitest,jest,phpunit&perline=3" />
@@ -83,13 +85,13 @@
                 <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&perline=3" />
             </td>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,gimp&perline=3" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=figma&perline=3" />
             </td>
             <td align="center">
                 <img src="https://go-skill-icons.vercel.app/api/icons?i=jira,asana&perline=3" />
             </td>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,swagger,storybook&perline=3" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,swagger&perline=3" />
             </td>
         </tr>
     </table>
