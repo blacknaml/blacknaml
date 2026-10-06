@@ -36,7 +36,7 @@ Fun fact: **I wish to live in the jungle.**
   <a href="https://debipraharadika.web.id/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
-    <a href="https://www.upwork.com//freelancers/debidev" target="_blank">
+    <a href="https://www.upwork.com/freelancers/debidev" target="_blank">
      <img src="https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Work+with+me+on&style=for-the-badge" target="_blank" /> 
   </a>    
 </div>
