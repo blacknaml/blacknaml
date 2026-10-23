@@ -51,7 +51,7 @@ Fun fact: **I wish to live in the jungle.**
             <th>Frontend</th>
             <th>Backend</th>
             <th>Database</th>
-            <th>DevOps</th>
+            <th>Infra</th>
             <th>Test</th>
         </tr>
         <tr>
